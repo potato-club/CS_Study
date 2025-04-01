@@ -32,8 +32,8 @@
 ```bash
 Jihyeon/
 ├── Computer Architecture/
-│   ├── 컴퓨터의 구성.md/
-│   ├── 중앙처리장치(CPU) 작동 원리.md/
+│   ├── 컴퓨터의 구성.md
+│   ├── 중앙처리장치(CPU) 작동 원리.md
 │   └── ...
 ```
 
