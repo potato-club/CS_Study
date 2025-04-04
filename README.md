@@ -10,8 +10,8 @@
 | ------ | -------------------------------------------------- |
 | 김지현 | [@jihy30n](https://github.com/jihy30n)             |
 | 김동균 | [@DonggyunKim00](https://github.com/DonggyunKim00) |
-| 김성훈 | [@](https://github.com/)                           |
-| 김효성 | [@](https://github.com/)                           |
+| 김성훈 | [@Teddysir](https://github.com/Teddysir)           |
+| 김효성 | [@ppacman](https://github.com/ppacman)             |
 
 ## 🌱 스터디 규칙
 
@@ -27,9 +27,13 @@
 
 ```bash
 Jihyeon/
-├── Computer Architecture/
+├── 1.Computer-Architecture/
 │   ├── 컴퓨터의 구성.md
 │   ├── 중앙처리장치(CPU) 작동 원리.md
+│   └── ...
+├── 2.Data-Structure/
+│   ├── 배열.md
+│   ├── 연결 리스트(Linked List).md
 │   └── ...
 ```
 
