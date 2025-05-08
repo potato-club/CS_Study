@@ -23,7 +23,7 @@
 
 ### 2-1. FIFO 알고리즘 (초기화 코드에서 적절한 방식)
 
-![img_8.png](img_8.png)
+![img_8.png](img/img_8.png)
 
 > First-In First-Out, 메모리에 먼저 올라온 페이지를 먼저 내보내는 알고리즘 
 >
@@ -35,7 +35,7 @@
 
 ### 2-2 OPT 알고리즘
 
-![img_9.png](img_9.png)
+![img_9.png](img/img_9.png)
 
 > Optimal 알고리즘, 앞으로 가장 사용하지 않을 페이지를 가장 우선적으로 내보냄
 
@@ -44,7 +44,7 @@
 
 ### 2-3 LRU 알고리즘
 
-![img_10.png](img_10.png)
+![img_10.png](img/img_10.png)
 
 > Least-Recently-Used, 최근에 사용하지 않은 페이지를 가장 먼저 내려보내는 알고리즘
 
